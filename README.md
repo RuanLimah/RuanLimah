@@ -1,4 +1,4 @@
-## Hey guys! i'm Ruan Lima and i'm currently studying software engineering.
+## Hey guys! i'm Ruan Lima and currently studying software engineering.
 <div align="center">
   <a href="https://github.com/RuanLimah">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RuanLimah&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
